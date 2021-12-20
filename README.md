@@ -6,4 +6,4 @@ Estou no 3º Ano no curso de Engenharia Informática da UMinho.
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoribeiro2001&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoribeiro2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoribeiro2001&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
