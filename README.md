@@ -2,7 +2,7 @@
 
 Estou no 3º Ano do curso de Engenharia Informática da UMinho.
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ribeiro.tiago2001@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto=ribeiro.tiago2001@gmail.com)
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoribeiro2001&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
