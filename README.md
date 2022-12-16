@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago! 👋
 
-Estou no 3º Ano do curso de Engenharia Informática da UMinho.
+Estou no 1º Ano do Mestrado do curso de Engenharia Informática da UMinho.
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ribeiro.tiago2001@gmail.com)
 
