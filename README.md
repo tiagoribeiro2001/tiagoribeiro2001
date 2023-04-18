@@ -2,6 +2,16 @@
 
 Estou no 1º Ano do Mestrado do curso de Engenharia Informática da UMinho.
 
+- Sistemas Inteligentes (SI)
+  - Agentes e Sistemas Multiagente
+  - Aprendizagem Profunda
+  - Sensorização e Ambiente
+  
+- Engenharia de Aplicações (EA)
+  - Sistemas Interativos Confiáveis
+  - Arquiteturas Aplicacionais
+  - Administração de Bases de Dados
+
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ribeiro.tiago2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ribeiro-265257270/)
 
