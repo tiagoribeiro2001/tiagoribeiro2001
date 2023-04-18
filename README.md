@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago! 👋
 
-Estou no 1º Ano do Mestrado do curso de Engenharia Informática da UMinho.
+Frequento o 1º Ano do Mestrado do curso de Engenharia Informática da UMinho.
 
 - Sistemas Inteligentes (SI)
   - Agentes e Sistemas Multiagente
