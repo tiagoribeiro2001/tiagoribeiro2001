@@ -3,9 +3,9 @@
 
 - 🧠 Master's specialized in Intelligent Systems (AI) and Application Engineering
   
-- 🔭 I’m currently working on [CrowdFlow](www.crowdflow.pt)
+- 🔭 I’m currently working on [CrowdFlow](https://www.crowdflow.pt)
 
-- 👨‍💻 Check out my <a href="tiagoribeiro2001.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a>
+- 👨‍💻 Check out my <a href="https://tiagoribeiro2001.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a>
 
 - 📫 How to reach me **ribeiro.tiago2001@gmail.com**
 
