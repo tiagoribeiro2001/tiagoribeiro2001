@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiago Ribeiro</h1>
-<h3 align="center">Studying at UMinho, Master's in Informatics Engineering</h3>
+<h3 align="center">Working at Accenture, Master's in Informatics Engineering</h3>
 
 - 🧠 Master's specialized in Intelligent Systems (AI) and Application Engineering
   
-- 🔭 I’m currently working on [CrowdFlow](https://www.crowdflow.pt)
+- 🔭 I’m currently working at Accenture
 
 - 👨‍💻 Check out my [portfolio](https://tiagoribeiro2001.github.io/portfolio/)
 
@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoribeiro2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="tiagoribeiro2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoribeiro2001&show_icons=true&theme=dark&locale=en" alt="tiagoribeiro2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoribeiro2001&theme=dark" alt="tiagoribeiro2001" /></p>
