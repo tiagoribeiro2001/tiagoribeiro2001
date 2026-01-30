@@ -30,7 +30,3 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoribeiro2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="tiagoribeiro2001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoribeiro2001&show_icons=true&theme=dark&locale=en" alt="tiagoribeiro2001" /></p>
